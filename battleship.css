@@ -1,0 +1,16 @@
+
+button{
+   width: 90px;
+   height: 70px;
+}
+
+#board{
+ margin-left:20px;
+}
+
+.hit {
+	background: url('ship.png') no-repeat center center;
+}
+.miss {
+	background: url('miss.png') no-repeat center center;
+}
